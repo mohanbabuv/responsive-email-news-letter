@@ -3,6 +3,6 @@
 
 	Here you can see my recent work, Responsive E-Mail News Letter,
 
-	i designed this Responsive E-Mail News Letter using HTML and CSS3
+	i designed this Responsive E-Mail News Letter using Bootstrap
 
 	Thanks
